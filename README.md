@@ -1,4 +1,8 @@
-<img width="339" height="282" alt="image" src="https://github.com/user-attachments/assets/fabbb3e6-b9c9-4517-b803-6802c4e6dcf0" /># 👁️ Derin Öğrenme ile Çoklu Göz Hastalığı Sınıflandırması
+# 👁️ Derin Öğrenme ile Çoklu Göz Hastalığı Sınıflandırması
+
+
+<img width="339" height="282" alt="image" src="https://github.com/user-attachments/assets/fabbb3e6-b9c9-4517-b803-6802c4e6dcf0" />
+                              
 
 Bu bölümde, **Diyabetik Retinopati, Katarakt, Glokom ve Normal** olmak üzere dört sınıfı kapsayan bir fundus görüntüsü sınıflandırma sistemi geliştirilmiştir.  
 Çalışmada derin öğrenme tabanlı **transfer öğrenme yöntemleri** kullanılmış, farklı CNN mimarileri karşılaştırılmış ve en iyi model seçilmiştir.
@@ -76,35 +80,40 @@ Her model, doğruluk (Accuracy) ve F1-score metrikleri ile değerlendirilmiştir
 
 📌 Görseller:  
 ResNet18 Modelinin Eğitim, Doğrulama ve Test Seti Performans Metrikleri:
-- *<img width="684" height="244" alt="image" src="https://github.com/user-attachments/assets/e5b55292-4ed9-4734-90fa-520fc142ccd2" />
+- <img width="684" height="244" alt="image" src="https://github.com/user-attachments/assets/e5b55292-4ed9-4734-90fa-520fc142ccd2" />
 
 Mobilenetv2 Modelinin Eğitim, Doğrulama ve Test Seti Performans Metrikleri:
-- *<img width="678" height="253" alt="image" src="https://github.com/user-attachments/assets/03d82bfb-7376-4764-8da2-3a0524c2ee89" />
+- <img width="678" height="253" alt="image" src="https://github.com/user-attachments/assets/03d82bfb-7376-4764-8da2-3a0524c2ee89" />
 
 Efficientb0 Modelinin Eğitim, Doğrulama ve Test Seti Performans Metrikleri:
-- *<img width="844" height="266" alt="image" src="https://github.com/user-attachments/assets/a92b0763-c863-4f64-8bdf-043cc066e8ef" />
+- <img width="844" height="266" alt="image" src="https://github.com/user-attachments/assets/a92b0763-c863-4f64-8bdf-043cc066e8ef" />
 
 Efficientb3 Modelinin Eğitim, Doğrulama ve Test Seti Performans Metrikleri:
-- *<img width="684" height="221" alt="image" src="https://github.com/user-attachments/assets/a8d924f2-4065-4383-aeef-9d3773dd8015" />
+- <img width="684" height="221" alt="image" src="https://github.com/user-attachments/assets/a8d924f2-4065-4383-aeef-9d3773dd8015" />
 
 DenseNet121 Modelinin Eğitim, Doğrulama ve Test Seti Performans Metrikleri:
-- *<img width="770" height="234" alt="image" src="https://github.com/user-attachments/assets/3688ba2c-8a53-480e-a19f-56aa02639b0b" />
+- <img width="770" height="234" alt="image" src="https://github.com/user-attachments/assets/3688ba2c-8a53-480e-a19f-56aa02639b0b" />
 
 📌 Görsel:
 Resnet18 Modelinin kayıp ve doğrulama  grafikleri:
--*<img width="682" height="237" alt="image" src="https://github.com/user-attachments/assets/efa06e5c-d324-4449-bdd9-62e1e6430082" />
+-<img width="682" height="237" alt="image" src="https://github.com/user-attachments/assets/efa06e5c-d324-4449-bdd9-62e1e6430082" />
+
 
 Mobilenetv2 Modelinin kayıp ve doğrulama  grafikleri:
--*<img width="624" height="219" alt="image" src="https://github.com/user-attachments/assets/074c339a-4c7e-4756-bb6d-3ab38ccaa3d7" />
+-<img width="624" height="219" alt="image" src="https://github.com/user-attachments/assets/074c339a-4c7e-4756-bb6d-3ab38ccaa3d7" />
+
 
 Efficientb0 Modelinin kayıp ve doğrulama  grafikleri:
--*<img width="658" height="236" alt="image" src="https://github.com/user-attachments/assets/c93417ec-b1c8-4fae-8821-2562dbbeeff3" />
+-<img width="658" height="236" alt="image" src="https://github.com/user-attachments/assets/c93417ec-b1c8-4fae-8821-2562dbbeeff3" />
+
 
 Efficientb3 Modelinin kayıp ve doğrulama  grafikleri:
--*<img width="606" height="214" alt="image" src="https://github.com/user-attachments/assets/688b0bee-dc7b-4c17-8861-d296aa4bbfff" />
+-<img width="606" height="214" alt="image" src="https://github.com/user-attachments/assets/688b0bee-dc7b-4c17-8861-d296aa4bbfff" />
+
 
 DenseNet121 Modelinin kayıp ve doğrulama  grafikleri:
--*<img width="594" height="207" alt="image" src="https://github.com/user-attachments/assets/23fc05c6-61e8-4b78-b2af-13d539716851" />
+-<img width="594" height="207" alt="image" src="https://github.com/user-attachments/assets/23fc05c6-61e8-4b78-b2af-13d539716851" />
+
 
 ---
 
